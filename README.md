@@ -2,9 +2,6 @@
 
 ## 概要
 リア充を半永久的に爆破して精神を安定させるプログラムです。
-
-***デモ***
-![デモ](https://github.com/kyoumoyutori/explode-happy-people/blob/main/images/explodehpppl.gif)
  
 ## 必要要件
 - 実行者が非リア充であること
@@ -18,3 +15,5 @@ cd explode-happy-people
 python explodehpppl.py
 # 停止の際はCtrl+cで離脱
 ```
+***デモ***
+![デモ](https://github.com/kyoumoyutori/explode-happy-people/blob/main/images/explodehpppl.gif)
