@@ -1,20 +1,19 @@
 import time
 import sys
 
+print("===================================================================================")
+print("あなたの気が済むまで周囲のリア充を爆破し続けます。")
+time.sleep(2)
+print("Ready...")
+time.sleep(3)
+print("3...")
+time.sleep(1)
+print("2...")
+time.sleep(1)
+print("1...")
+time.sleep(1)
 
 while True:
-    print("===================================================================================")
-    time.sleep(3)
-    print("周囲のリア充を爆破します。")
-    time.sleep(2)
-    print("Ready...")
-    time.sleep(3)
-    print("3...")
-    time.sleep(1)
-    print("2...")
-    time.sleep(1)
-    print("1...")
-    time.sleep(1)
 
     print("\
            ┏┓┏┳┓         ┏━┓┏┓  ┏┓\n\
@@ -38,10 +37,6 @@ while True:
              ﾞﾞ´`´ﾞ-;il||||il|||li|             i;l ll|||ii||lliﾞ/｀ﾞ\n\
                  ´ﾞ｀ﾞ⌒ゞ;iill|||lli|||||l||ilil||i|llii;|;_ﾞι´ﾟﾞ´｀ﾞ\n\
                          ´ﾞﾞ´｀ﾞ｀｀´ﾞ｀ﾞ´｀｀´ﾞ｀ﾞﾞ´´\n\
-           ")
-    
+    ")
 
-    time.sleep(3)
-    
-    print("へんじがない...ただのリア充のようだ...。")
-    time.sleep(3)
+    time.sleep(1)
